@@ -245,7 +245,7 @@ esac
 }
 
 update_check() {
-if ping -c 1 google.com &> /dev/null; then
+if ping -q -c 1 -W 1 google.com &> /dev/null; then
 versao_arquivo=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt)
 versao_script="1.0.0"
 clear
