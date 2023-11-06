@@ -1,2 +1,3 @@
-# teste2222
+teste2222
+clear
 test
