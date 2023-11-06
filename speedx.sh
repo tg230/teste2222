@@ -243,4 +243,28 @@ ajuda
 ;;
 esac
 }
-update_menu
+
+update_check() {
+versao_arquivo=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt)
+versao_script="1.0.0"
+clear
+echo "procurando atualizações"
+sleep 2.0
+clear
+if [ "$versao_arquivo" != "$versao_script" ]; then
+    echo "A versão do menu não corresponde à versão do script. Atualizando..."
+    sleep 1.0
+    rm -r speedx.sh
+    sleep 1.0
+    curl -O https://raw.githubusercontent.com/tg230/teste2222/main/speedx.sh
+    clear
+    sleep 0.5
+    echo "Menu atualizado com sucesso!"
+else
+    echo "Sua versão do menu está atualizada."
+    sleep 1.0
+    update_menu
+fi
+
+}
+
