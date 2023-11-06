@@ -277,7 +277,7 @@ fi
 }
 
 home() {
-if curl -Is https://www.google.com | head -n 1 | grep "200 OK" &> /dev/null; then
+if curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt; then
      update_check
 else
     echo "Sem conexão à internet. Não é possível verificar atualizações."
