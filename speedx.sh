@@ -276,4 +276,14 @@ else
 fi
 }
 
-update_check
+home() {
+if ping -c 1 8.8.8.8 &> /dev/null; then
+     update_check
+else
+    echo "Sem conexão à internet. Não é possível verificar atualizações."
+    sleep 2.0
+    update_menu
+fi
+}
+
+home
