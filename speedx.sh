@@ -245,6 +245,7 @@ esac
 }
 
 update_check() {
+if ping -c 1 google.com &> /dev/null; then
 versao_arquivo=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt)
 versao_script="1.0.0"
 clear
@@ -259,12 +260,20 @@ if [ "$versao_arquivo" != "$versao_script" ]; then
     curl -O https://raw.githubusercontent.com/tg230/teste2222/main/speedx.sh
     clear
     sleep 0.5
-    echo "Menu atualizado com sucesso!"
+    echo "Menu atualizado com sucesso! reiniciando..."
+    sleep 1.0
+    clear
+    exec sh "$0"
 else
     echo "Sua versão do menu está atualizada."
     sleep 1.0
     update_menu
 fi
-
+else
+    echo "Sem conexão à internet. Não é possível verificar atualizações."
+    sleep 2.0
+    update_menu
+fi
 }
 
+update_check
