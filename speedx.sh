@@ -277,7 +277,7 @@ fi
 }
 
 home() {
-if ping -c 1 8.8.8.8 &> /dev/null; then
+if curl -Is https://www.google.com | head -n 1 | grep "200 OK" &> /dev/null; then
      update_check
 else
     echo "Sem conexão à internet. Não é possível verificar atualizações."
