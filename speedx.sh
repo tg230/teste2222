@@ -57,31 +57,25 @@ echo "update e upgrade finalizados com sucesso, instalando adb...
 "
 sleep 3.0
 clear
-if pkg search android-tools; then
-echo "você ja tem o ADB instalado!!!, prosseguindo"
-sleep 3.0
-clear
-else
+
 echo "instalando adb"
-pkg install android-tools 
-clear
-echo "ADB instalado com sucesso, instalando git...
-"
+    pkg install android-tools 
+    clear
+    echo "ADB instalado com sucesso, instalando git..."
+
+
 sleep 3.0
 clear
-fi
-if pkg search git; then
-echo "você ja tem o git instalado!!!, prosseguindo"
-sleep 3.0
-clear
-else
+
+
 echo "instalando git"
-pkg install git
-clear
-echo "git instalado com sucesso, prosseguindo..."
+    pkg install git
+    clear
+    echo "git instalado com sucesso, prosseguindo..."
+
+    
 sleep 3.0
 clear
-fi
 echo "digite a porta e o codigo separando por uma barra 
 
 exemplo:340596 392652
@@ -243,9 +237,7 @@ ajuda
 ;;
 esac
 }
-
 update_check() {
-
 versao_arquivo=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt)
 versao_script="1.0.0"
 clear
@@ -271,6 +263,7 @@ else
 fi
 
 }
+
 
 home() {
 if curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt; then
