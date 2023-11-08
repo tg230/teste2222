@@ -49,6 +49,7 @@ esac
 }
 dependencies() { 
 clear
+termux-setup-storage
 echo "aperte enter ou digite Y toda vez que aparecer para você confirmar algo !!!"
 sleep 3.0
 pkg update && pkg upgrade 
