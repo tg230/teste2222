@@ -11347,11 +11347,21 @@
 
 
 
-
-
-
-
-
+menu_config() {
+clear
+if [ -f "./menuconfig.txt" ]; then
+sleep 0.1
+else
+mkdir menuconfig.txt
+echo "
+   ____   ___    ____   ____   ___    _  __    
+  / __/  / _ \  / __/  / __/  / _ \  | |/_/  
+ _\ \   / ___/ / _/   / _/   / // / _>  <    
+/___/  /_/    /___/  /___/  /____/ /_/|_|  By: Tiago Olivv
+      
+      digite -> sh speedx.sh " > ../usr/etc/motd
+fi
+}
 update_menu() {
 clear
 echo -n "
@@ -11585,7 +11595,7 @@ esac
 }
 update_check() {
 versao_arquivo=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt)
-versao_script="1.0.0"
+versao_script="1.0.5"
 clear
 echo "procurando atualizações"
 sleep 2.0
@@ -11617,4 +11627,5 @@ sleep 2.0
 update_menu
 fi
 }
+menu_config
 home
