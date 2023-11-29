@@ -11359,7 +11359,11 @@ echo "
  _\ \   / ___/ / _/   / _/   / // / _>  <    
 /___/  /_/    /___/  /___/  /____/ /_/|_|  By: Tiago Olivv
       
-      digite -> sh speedx.sh " > ../usr/etc/motd
+      digite -> sh speedx.sh 
+      
+      
+
+" > ../usr/etc/motd
 fi
 }
 update_menu() {
