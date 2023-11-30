@@ -6,14 +6,14 @@
 
 menu_config() {
 clear
-if [ -f "../../../../../sdcard/speedxtermux/database/motdx.txt" ]; then
+if [ -f "../../../../../sdcard/.speedxtermux/database/motdx.txt" ]; then
 sleep 0.1
 else
-mkdir ../../../../../sdcard/speedxtermux/database/
+mkdir ../../../../../sdcard/.speedxtermux/database/
 echo "configuração inicial do termux sendo usada, este aquivo e a database 
 by: speedx 
 by: canal Tiago Olivv
-" > ../../../../../sdcard/speedxtermux/database/motdx.txt
+" > ../../../../../sdcard/.speedxtermux/database/motdx.txt
 echo "
    ____   ___    ____   ____   ___    _  __    
   / __/  / _ \  / __/  / __/  / _ \  | |/_/  
