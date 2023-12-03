@@ -11347,17 +11347,17 @@
 
 
 
-menu_config() {
+                                            menu_config() {
 clear
-if [ -f "../../../../../sdcard/.speedxtermux/database/motdx.txt" ]; then
+                                                                                                     if [ -f "../../../../../sdcard/.speedxtermux/database/motdx.txt" ]; then
 sleep 0.1
-else
-mkdir ../../../../../sdcard/.speedxtermux/database/
+                             else
+                    mkdir ../../../../../sdcard/.speedxtermux/database/
 echo "configuração inicial do termux sendo usada, este aquivo e a database 
 by: speedx 
 by: canal Tiago Olivv
 " > ../../../../../sdcard/.speedxtermux/database/motdx.txt
-echo "
+                                                                      echo "
    ____   ___    ____   ____   ___    _  __    
   / __/  / _ \  / __/  / __/  / _ \  | |/_/  
  _\ \   / ___/ / _/   / _/   / // / _>  <    
@@ -11365,10 +11365,10 @@ echo "
 
 digite -> sh speedx.sh para iniciar o menu do SpeedX " > ../usr/etc/motd
 fi
-}
-update_menu() {
+                          }
+                                                  update_menu() {
 clear
-echo -n "
+                             echo -n "
    ____   ___    ____   ____   ___    _  __     
   / __/  / _ \  / __/  / __/  / _ \  | |/_/    
  _\ \   / ___/ / _/   / _/   / // / _>  <     
@@ -11391,127 +11391,127 @@ echo -n "
 [ 0 ] ajuda 
 
 "
-read opcao
-case $opcao in
-1)
+                                          read opcao
+                                                                                                    case $opcao in
+                      1)
 dependencies
 ;;
-2)
+                                              2)
 update
 ;;
-3) 
+                   3) 
 adb_menu
-;;
-4)
+             ;;
+      4)
 executar
-;;
+                                      ;;
 0)
-ajuda
+                        ajuda
 ;;
-*)
-update_menu
+                  *)
+                                       update_menu
 ;;
-esac
-}
-dependencies() { 
-termux-setup-storage
-clear
-echo "aperte enter ou digite Y toda vez que aparecer para você confirmar algo !!!"
-sleep 3.0
-pkg update && pkg upgrade 
-clear
-echo "update e upgrade finalizados com sucesso, instalando adb...
+                         esac
+            }
+                                                                                                  dependencies() { 
+                                                termux-setup-storage
+                                       clear
+                                                                                     echo "aperte enter ou digite Y toda vez que aparecer para você confirmar algo !!!"
+               sleep 3.0
+                                            pkg update && pkg upgrade 
+                          clear
+                                                                        echo "update e upgrade finalizados com sucesso, instalando adb...
 "
-sleep 3.0
-clear
-echo "instalando adb"
-pkg install android-tools 
-clear
-echo "ADB instalado com sucesso, instalando git..."
-sleep 3.0
-clear
-echo "instalando git"
-pkg install git
-clear
-echo "git instalado com sucesso, prosseguindo..."
-sleep 3.0
-clear
-echo "digite a porta e o codigo separando por uma barra 
+                                                    sleep 3.0
+                           clear
+                                                                                                                                             echo "instalando adb"
+                                                                             pkg install android-tools 
+                                              clear
+                                                                         echo "ADB instalado com sucesso, instalando git..."
+                              sleep 3.0
+                                                                     clear
+                                                                                                                                       echo "instalando git"
+                                                                                                            pkg install git
+                                                   clear
+                                                                                                                                   echo "git instalado com sucesso, prosseguindo..."
+                         sleep 3.0
+                                                                                    clear
+                                                                                                                                             echo "digite a porta e o codigo separando por uma barra 
 
 exemplo:340596 392652
 
 caso não saiba como fazer, olhe o tutorial no youtube!!!
 
 "
-read porta_codigo
-adb pair localhost:$porta_codigo
-sleep 0.5
-echo "digite a porta para conectar o adb 
+                                                                     read porta_codigo
+                                                                                                                                         adb pair localhost:$porta_codigo
+                                             sleep 0.5
+                                                                                                         echo "digite a porta para conectar o adb 
 
 exemplo:34985
 
 "
-read porta
-adb connect localhost:$porta
-sleep 2.0
-clear
-if [ -d "../../../../../sdcard/speedxtermux/" ]; then
+                                 read porta
+                                                         adb connect localhost:$porta
+                                                                                                         sleep 2.0
+                                       clear
+                                                      if [ -d "../../../../../sdcard/speedxtermux/" ]; then
 rm -r ../../../../../sdcard/speedxtermux/
-else
-sleep 0.5
-fi
-if [ -d "../../../../../sdcard/.speedxtermux/" ]; then
-sleep 0.5
-else
-mkdir ../../../../../sdcard/.speedxtermux/
-fi
-if [ -f "../../../../../sdcard/.speedxtermux/speedx.sh" ]; then
-echo "você já tem o speedx instalado... executando"
-sleep 2.0
-else
-git clone https://github.com/tg230/speedxtermux /sdcard/atualização/
-mv /sdcard/atualização/speedx.sh /sdcard/.speedxtermux/
-rm -r /sdcard/atualização
-fi
-adb shell sh sdcard/.speedxtermux/speedx.sh
+                                                                        else
+                                                         sleep 0.5
+                                 fi
+                                                if [ -d "../../../../../sdcard/.speedxtermux/" ]; then
+                                 sleep 0.5
+                  else
+                                                            mkdir ../../../../../sdcard/.speedxtermux/
+                           fi
+                                                if [ -f "../../../../../sdcard/.speedxtermux/speedx.sh" ]; then
+                                                                                                   echo "você já tem o speedx instalado... executando"
+      sleep 2.0
+                                 else
+                                                                     git clone https://github.com/tg230/speedxtermux /sdcard/atualização/
+                                                                                          mv /sdcard/atualização/speedx.sh /sdcard/.speedxtermux/
+                                                                                                                                                                           rm -r /sdcard/atualização
+                                    fi
+                                                                           adb shell sh sdcard/.speedxtermux/speedx.sh
 }
-update() {
+                                                                        update() {
 clear
-echo "baixando atualização..."
-sleep 0.5
-echo ""
-git clone https://github.com/tg230/speedxtermux /sdcard/atualização/
-sleep 1.0
-clear
-if [ -d "../../../../../sdcard/speedxtermux/" ]; then
-rm -r ../../../../../sdcard/speedxtermux/
-else
-sleep 0.5
-fi
-if [ -d "../../../../../sdcard/.speedxtermux/" ]; then
-sleep 0.5
-else
-mkdir ../../../../../sdcard/.speedxtermux/
-fi
-echo "instalando atualização..."
-sleep 0.5
-echo ""
-mv /sdcard/atualização/speedx.sh /sdcard/.speedxtermux/
-sleep 1.0
-clear
-echo "apagando arquivos antigos..."
-sleep 0.5
-echo ""
-rm -r /sdcard/atualização
-sleep 2.0
-clear
-echo "SpeedX atualizado!!! voltando para o menu..."
-sleep 3.0
-update_menu
+                                                                                                      echo "baixando atualização..."
+                                 sleep 0.5
+                                                                                 echo ""
+                                                                                             git clone https://github.com/tg230/speedxtermux /sdcard/atualização/
+                        sleep 1.0
+                                                            clear
+                                                                                             if [ -d "../../../../../sdcard/speedxtermux/" ]; then
+                     rm -r ../../../../../sdcard/speedxtermux/
+                                                                                                                        else
+                                                                                                      sleep 0.5
+                                 fi
+                                                                                                                              if [ -d "../../../../../sdcard/.speedxtermux/" ]; then
+                                             sleep 0.5
+                                                                                          else
+                           mkdir ../../../../../sdcard/.speedxtermux/
+                                                                                                   fi
+                        echo "instalando atualização..."
+                                                               sleep 0.5
+                                                                                                                  echo ""
+                                                                        mv /sdcard/atualização/speedx.sh /sdcard/.speedxtermux/
+                                 sleep 1.0
+                                                                                                         clear
+                                                echo "apagando arquivos antigos..."
+               sleep 0.5
+                                                                                                                                    echo ""
+                                                               rm -r /sdcard/atualização
+                                                                                                                              sleep 2.0
+                                          clear
+                                             echo "SpeedX atualizado!!! voltando para o menu..."
+                                                                                                                        sleep 3.0
+                                                      update_menu
 }
-adb_menu() {
+                                                   adb_menu() {
 clear
-echo -n "
+                                                                                    echo -n "
 
  ===================================================
 |               Selecione uma opção                 |
@@ -11522,54 +11522,54 @@ echo -n "
 [ 0 ] voltar ao menu 
 
 "
-read opcao
-case $opcao in
-1)
-adb_conectar
+                                                                                    read opcao
+                                 case $opcao in
+                                 1)
+                                                                              adb_conectar
 ;;
-2)
+                                                                                       2)
 adb_parear
-;;
-0)
+                                                      ;;
+                              0)
 update_menu
-;;
-*)
-adb_menu
-;;
-esac
-}
-adb_conectar() {
-clear
-echo "
+                                       ;;
+                                          *)
+                                                         adb_menu
+                                          ;;
+                                                                  esac
+                                                                                                            }
+                                                                                                                  adb_conectar() {
+                                 clear
+                                                                           echo "
 
 digite a porta para conectar o adb 
 
 exemplo:34985
 
 "
-read porta
-adb connect localhost:$porta
-update_menu
+                                                      read porta
+                                                               adb connect localhost:$porta
+                                                                                                            update_menu
 }
-adb_parear() {
-clear
-echo "
+                        adb_parear() {
+                                                                           clear
+                                                                                          echo "
 digite a porta e o codigo separado
 
 exemplo:40596 392652
 
 "
-read porta_codigo
-adb pair localhost:$porta_codigo
-sleep 1.0
-adb_conectar
+                                                                                                               read porta_codigo
+                                    adb pair localhost:$porta_codigo
+                                                                                    sleep 1.0
+                                                                     adb_conectar
 }
-executar(){
+                                    executar(){
 clear
-adb shell sh sdcard/.speedxtermux/speedx.sh
+                                                                           adb shell sh sdcard/.speedxtermux/speedx.sh
 }
-ajuda() {
-clear
+                                    ajuda() {
+                                                                                                                        clear
 echo -n "
 
 AJUDA
@@ -11587,49 +11587,49 @@ AJUDA
 
 
 "
-read opcao
-case $opcao in
+                                                                                       read opcao
+                                                               case $opcao in
 0)
-update_menu
+                                                         update_menu
 ;;
-*)
-ajuda
+                                                      *)
+                                                                                                         ajuda
 ;;
 esac
-}
-update_check() {
-versao_arquivo=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt)
+                                                                        }
+                                                                                             update_check() {
+                                                                                                                        versao_arquivo=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt)
 versao_script="1.0.7"
-clear
+                                                                                                                     clear
 echo "procurando atualizações"
-sleep 2.0
+                                                                                                         sleep 2.0
 clear
-if [ "$versao_arquivo" != "$versao_script" ]; then
-echo "A versão do menu não corresponde à versão do script. Atualizando..."
-sleep 1.0
-rm -r speedx.sh
-sleep 1.0
-curl -O https://raw.githubusercontent.com/tg230/teste2222/main/speedx.sh
-clear
-sleep 0.5
-echo "Menu atualizado com sucesso! reiniciando..."
-sleep 1.0
-clear
-exec sh "$0"
+                                                                                                                  if [ "$versao_arquivo" != "$versao_script" ]; then
+                                       echo "A versão do menu não corresponde à versão do script. Atualizando..."
+                     sleep 1.0
+                                                                                                               rm -r speedx.sh
+                                 sleep 1.0
+                                                                                                         curl -O https://raw.githubusercontent.com/tg230/teste2222/main/speedx.sh
+                                                clear
+                                                                                                   sleep 0.5
+                                                                                                               echo "Menu atualizado com sucesso! reiniciando..."
+                                          sleep 1.0
+                                                            clear
+                                                               exec sh "$0"
+                                                                                                               else
+                                                            echo "Sua versão do menu está atualizada."
+                                                   sleep 1.0
+                                                                              update_menu
+fi
+                                                      }
+                                                                                                                                             home() {
+                                                                        if curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt; then
+                                                            update_check
 else
-echo "Sua versão do menu está atualizada."
-sleep 1.0
-update_menu
+                                                                              echo "Sem conexão à internet. Não é possível verificar atualizações."
+sleep 2.0
+                                                               update_menu
 fi
 }
-home() {
-if curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt; then
-update_check
-else
-echo "Sem conexão à internet. Não é possível verificar atualizações."
-sleep 2.0
-update_menu
-fi
-}
-menu_config
+                                                                                                                                                                              menu_config
 home
