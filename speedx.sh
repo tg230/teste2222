@@ -10430,7 +10430,7 @@ eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Y
 
 home() {
 z="
-";Mz='tg23';xz='enu';Az='if c';Pz='222/';mz=' ver';lz='ível';Xz='upda';Uz='.txt';Ez='tps:';Fz='//ra';Yz='te_c';dz='m co';ez='nexã';hz='rnet';Iz='user';wz='te_m';Bz='url ';gz='inte';uz='p 2.';Jz='cont';Qz='main';Tz='%A3o';Cz='-s -';Oz='ste2';tz='slee';Gz='w.gi';vz='0';kz='poss';sz='"';pz='tual';iz='. Nã';bz='echo';Lz='com/';Rz='/ver';yz='fi';Wz='en';Nz='0/te';Kz='ent.';Hz='thub';jz='o é ';qz='izaç';nz='ific';Vz='; th';cz=' "Se';Dz='L ht';rz='ões.';oz='ar a';Zz='heck';fz='o à ';Sz='s%C3';az='else';
+";gz='inte';uz='p 2.';az='else';Vz='; th';Cz='-s -';mz=' ver';Yz='te_c';jz='o é ';Fz='//ra';vz='0';xz='enu';Hz='thub';oz='ar a';Gz='w.gi';qz='izaç';Ez='tps:';sz='"';fz='o à ';Xz='upda';iz='. Nã';Sz='s%C3';hz='rnet';Zz='heck';Az='if c';wz='te_m';yz='fi';Mz='tg23';cz=' "Se';nz='ific';bz='echo';Oz='ste2';Pz='222/';dz='m co';Dz='L ht';pz='tual';Iz='user';rz='ões.';Qz='main';Nz='0/te';ez='nexã';Jz='cont';Bz='url ';kz='poss';Kz='ent.';Uz='.txt';lz='ível';Tz='%A3o';Lz='com/';Wz='en';Rz='/ver';tz='slee';
 eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Zz$z$az$z$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$tz$uz$vz$z$Xz$wz$xz$z$yz"
 }
 
