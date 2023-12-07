@@ -1,107 +1,157 @@
 #!/system/bin/sh
 
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
 
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
+#By Tiago Olivv 
+#Script Exclusivo
+#Não altere pois o security pode bloquear seu acesso !!!
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
@@ -109,26 +159,17 @@
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
@@ -136,9 +177,6 @@
 
 
 
-#speedx termux menu
-#developer
-#by Tiago Olivv Canal
 
 
 
@@ -10148,1107 +10186,16 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                        menu_config() {
-                  clear
-                                                     if [ -f "../../../../../sdcard/.speedxtermux/database/motdx.txt" ]; then
-                                    sleep 0.1
-                  else
-                                    mkdir ../../../../../sdcard/.speedxtermux/database/
-                           echo "configuração inicial do termux sendo usada, este aquivo e a database 
-by: speedx 
-by: canal Tiago Olivv
-" > ../../../../../sdcard/.speedxtermux/database/motdx.txt
-        echo "
-   ____   ___    ____   ____   ___    _  __    
-  / __/  / _ \  / __/  / __/  / _ \  | |/_/  
- _\ \   / ___/ / _/   / _/   / // / _>  <    
-/___/  /_/    /___/  /___/  /____/ /_/|_|  By: Tiago Olivv
-
-digite -> sh speedx.sh para iniciar o menu do SpeedX 
-
-
-" > ../usr/etc/motd
-                                      fi
-
+menu_config() {
+z="
+";iz='echo';Fz='../.';iBz='/ _ ';FBz='Oliv';Bz='r';Sz=' ]; ';FCz='> sh';sz='sada';Rz='txt"';MCz='o me';IBz='../s';cz='.spe';qz=' sen';Hz='/../';WBz='__  ';kz='nfig';GBz='v';RBz='dx.t';Qz='tdx.';BCz=' Oli';vz='quiv';EBz='ago ';Zz='r ..';CCz='vv';gBz=' / _';Kz='spee';az='/sdc';dz='edxt';MBz='xter';xBz='|  B';Gz='./..';fBz='__/ ';bBz='/ __';QCz='../u';RCz='sr/e';NCz='nu d';wz='o e ';uz='te a';JBz='dcar';DBz='l Ti';mBz='_\ \';Az='clea';CBz='cana';oz='al d';rz='do u';Wz='1';ZBz='_   ';KBz='d/.s';ABz='by: ';lBz='/';VBz='   _';hz='se/';NBz='mux/';Jz='rd/.';Dz=' -f ';Cz='if [';pz='o te';ICz='sh p';UCz='fi';JCz='ara ';fz='x/da';Ez='"../';tz=', es';gz='taba';Iz='sdca';UBz='____';dBz=' _ \';tBz='  /_';Pz='e/mo';KCz='inic';lz='uraç';TCz='otd';nz='nici';DCz='digi';LCz='iar ';OBz='data';BBz='dx';ECz='te -';sBz='/___';ez='ermu';bz='ard/';GCz=' spe';oBz='/ / ';Xz='else';kBz=' |/_';vBz='_/ /';yBz='y: T';Oz='abas';mz='ão i';PBz='base';Tz='then';jBz='\  |';rBz='>  <';Vz='p 0.';cBz='/  /';PCz='eedX';HBz='" > ';HCz='edx.';nBz='   /';qBz='/ //';Yz='mkdi';YBz=' ___';LBz='peed';QBz='/mot';Uz='slee';SBz='xt';jz=' "co';uBz=' /__';yz='se';hBz='_/  ';TBz=' "';SCz='tc/m';XBz='  __';OCz='o Sp';wBz='_/|_';eBz='  / ';aBz='___ ';Nz='/dat';ACz='iago';Lz='dxte';pBz='/   ';xz='a da';Mz='rmux';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$z$Xz$z$Yz$Zz$Hz$Fz$Gz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$jz$kz$lz$mz$nz$oz$pz$Mz$qz$rz$sz$tz$uz$vz$wz$xz$gz$yz$z$ABz$Kz$BBz$z$ABz$CBz$DBz$EBz$FBz$GBz$z$HBz$Fz$Gz$Hz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$z$iz$TBz$z$UBz$VBz$WBz$XBz$WBz$YBz$ZBz$aBz$VBz$XBz$z$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$z$mBz$nBz$YBz$oBz$hBz$gBz$pBz$qBz$gBz$rBz$z$sBz$cBz$hBz$tBz$fBz$uBz$hBz$sBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$z$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$z$HBz$QCz$RCz$SCz$TCz$z$UCz"
 }
-                                                                               update_menu() {
-                                                            clear
+update_menu() {
+clear
 
 
-                                         echo -n "
+echo -n "
    ____   ___    ____   ____   ___    _  __     
   / __/  / _ \  / __/  / __/  / _ \  | |/_/    
  _\ \   / ___/ / _/   / _/   / // / _>  <     
@@ -11273,162 +10220,62 @@ digite -> sh speedx.sh para iniciar o menu do SpeedX
 "
 
 
-                                                                               read opcao
+read opcao
 
 
 
-                                                   case $opcao in
-                                                                         1)
-                       dependencies
-                                   ;;
-                 2)
-                          update
-                                         ;;
-            3) 
-                 adb_menu
-                ;;
-                     4)
-         executar
-                                   ;;
-                      0)
-                                 ajuda
-                         ;;
-                                   *)
-                  update_menu
-                                               ;;
-       esac
-                         } 
-                dependencies() { 
-                                             termux-setup-storage
-         clear
-                   sleep 1
-                                if [ -f "../../../../../sdcard/.speedxtermux/database/update.txt" ]; then
-             echo
-                            else
-                                          yes | pkg update
-                     echo "update atualizado !!! Tiago Olivv" > ../../../../../sdcard/.speedxtermux/database/update.txt
-                                                   fi
-                        if [ -f "../../../../../sdcard/.speedxtermux/database/update.txt" ]; then
-                                                 echo
-                                 else
-                                                                 yes | pkg upgrade
-                      echo "upgrade atualizado !!! Tiago Olivv" > ../../../../../sdcard/.speedxtermux/database/upgrade.txt
-                                                                 fi
+case $opcao in
+  1)
+dependencies
+  ;;
+  2)
+update
+  ;;
+  3) 
+ adb_menu
+  ;;
+  4)
+  executar
+  ;;
+  0)
+  ajuda
+  ;;
+  *)
+  update_menu
+    ;;
+esac
 
-                          clear
-
-                                              echo "update e upgrade finalizados com sucesso, instalando adb...
-"
-                                  sleep 1
-           clear
-                                 if [ -f "../../../../../sdcard/.speedxtermux/database/adb.txt" ]; then
-                           echo
-                                                     else
-                     yes | pkg install android-tools 
-                                              echo "android-tools atualizado !!! Tiago Olivv" > ../../../../../sdcard/.speedxtermux/database/adb.txt
-                   fi
-                                      sleep 1
-                            clear
-                                                        if [ -f "../../../../../sdcard/.speedxtermux/database/git.txt" ]; then
-                                                  echo
-                    else
-                                                        yes | pkg install git 
-                                     echo "git atualizado !!! Tiago Olivv" > ../../../../../sdcard/.speedxtermux/database/git.txt
-                      fi
-                                               clear
-                                sleep 1
-                                                            echo "digite a porta e o codigo separando por uma barra para parear o adb 
-
-exemplo:340596 392652
-
-caso não saiba como fazer, olhe o tutorial no youtube!!!
-
-"
-
-                                                                    read porta_codigo
-                                   adb pair localhost:$porta_codigo
-                                                                          sleep 0.5
-                                                                clear
-                                             echo "digite a porta para conectar o adb 
-
-
-exemplo:34985
-
-"
-                                                          read porta
-                        adb connect localhost:$porta
-                                                                    sleep 0.5
-             clear
-                                      if [ -d "../../../../../sdcard/speedxtermux/" ]; then
-                  rm -r ../../../../../sdcard/speedxtermux/
-                                                                     else
-                sleep 0.5
-                                            fi
-                                                            if [ -d "../../../../../sdcard/.speedxtermux/" ]; then
-              sleep 0.5
-                                                             else
-    mkdir ../../../../../sdcard/.speedxtermux/
-                                                        fi
-                                                           if [ -f "../../../../../sdcard/.speedxtermux/speedx.sh" ]; then
-                                      echo "você já tem o speedx instalado... executando"
-    sleep 1
-                                                                     else
-                         git clone https://github.com/tg230/speedxtermux /sdcard/atualização/
-                                                                   mv /sdcard/atualização/speedx.sh /sdcard/.speedxtermux/
-                    rm -r /sdcard/atualização
-                                                          fi
-                                                      clear
-          sleep 0.5
-                                    if adb shell sh sdcard/.speedxtermux/speedx.sh; then
-    echo
-                     else
-                                                clear
-                                                                echo "ERRO 307 - ocorreu algum erro ao inicializar o script, por favor comunique no telegram de suporte !!!"
-                                   sleep 4
-                                                     update_menu
-                fi
 
 }
-     update() {
-                                       clear
-                                                           echo "baixando atualização..."
-                           sleep 0.5
-                                                  echo ""
-                  git clone https://github.com/tg230/speedxtermux /sdcard/atualização/
-                                                                                                 sleep 1.0
-                     clear
 
-                                          if [ -d "../../../../../sdcard/speedxtermux/" ]; then
-                               rm -r ../../../../../sdcard/speedxtermux/
-           else
-                            sleep 0.5
-                  fi
 
-                           if [ -d "../../../../../sdcard/.speedxtermux/" ]; then
-              sleep 0.5
-                                  else
-                                                     mkdir ../../../../../sdcard/.speedxtermux/
-                            fi
-                                            echo "instalando atualização..."
-              sleep 0.5
-                                   echo ""
-                                                         mv /sdcard/atualização/speedx.sh /sdcard/.speedxtermux/
-                                      sleep 1.0
-                                                          clear
 
-                                         echo "apagando arquivos antigos..."
-sleep 0.5
-                  echo ""
-                                     rm -r /sdcard/atualização
-sleep 2.0
-             clear
-                              echo "SpeedX atualizado!!! voltando para o menu..."
-                      sleep 3.0
-                                      update_menu
-                     }
-                            adb_menu() {
-              clear
-                               echo -n "
+
+
+
+
+
+
+dependencies() { 
+z="
+";GFz='supo';MBz='../s';gz='g up';wEz='ipt,';uEz='nici';yCz='ba c';FEz='... ';nCz='o ad';mEz='RO 3';qCz='plo:';yz='te.t';bBz='os c';oBz='; th';BCz='do !';nz='o Ol';FCz='vv" ';FBz='uali';KBz='livv';aBz='izad';qBz='g in';pCz='exem';dEz='d/at';VEz='rd/a';iz=' atu';SCz='l gi';Bz='ux-s';EEz='lado';eEz='zaçã';iDz='lhos';HCz='/sdc';cz='echo';XBz='pgra';JCz='.spe';JFz='p 4';hz=' "up';Fz='clea';EFz='gram';OEz='thub';pz=' > .';rCz='3405';ez='yes ';IDz='utub';GDz='al n';YEz='ão/s';KCz='edxt';uBz='d-to';Yz='.txt';tDz='edx.';gBz='alan';LDz=' por';PDz='adb ';CBz='grad';aDz='nect';JDz='e!!!';GBz='zado';NEz='//gi';UCz=' "gi';rz='card';aCz='orta';vEz=' scr';RBz='mux/';Tz='rmux';vz='atab';Oz='/../';lDz='rd/s';SBz='data';qz='./sd';mCz='ear ';MDz='ta_c';rDz='x/';Uz='/dat';AEz='á te';tBz='droi';rEz='um e';tCz='9265';uCz='2';uz='ux/d';VCz='t at';lz='!!! ';dCz='igo ';ECz=' Oli';PCz='db.t';gEz='db s';sBz='l an';RCz='t.tx';Rz='spee';hCz='r um';sEz='rro ';az=' the';KDz='read';NBz='dcar';BDz='faze';gCz='o po';XEz='izaç';cBz='om s';UDz='port';vBz='ols';bDz='ar o';wDz='hen';jBz='.';Wz='e/up';NCz='taba';sz='/.sp';LCz='ermu';MCz='x/da';WEz='tual';DDz='lhe ';CFz=' no ';HDz='o yo';mDz='rm -';CCz='!! T';DBz='e';aEz=' /sd';HEz='utan';eBz='so, ';PBz='peed';Ez='rage';cEz='r /s';Pz='sdca';dBz='uces';yEz='or c';BBz='fi';XDz='p 0.';Hz='slee';Cz='etup';iBz='db..';TCz='t';bEz='ux/';EBz='e at';WBz=' e u';jDz='t:$p';DCz='iago';qEz=' alg';ZBz='inal';TDz='st:$';AFz='omun';fBz='inst';YDz='5';eDz='ta';Sz='dxte';FFz=' de ';hDz='loca';xEz=' fav';bCz=' e o';oDz='/';QBz='xter';REz='30/s';jCz='rra ';Gz='r';Mz='../.';cCz=' cod';oCz='b';UBz='/upg';Jz='if [';SEz='mux ';wCz=' não';OCz='se/a';NDz='odig';LBz='" > ';XCz=' "di';jEz='sh; ';pBz='en';dDz='3498';ZDz='a co';Qz='rd/.';GCz='> ..';GEz='exec';Kz=' -f ';hEz='hell';xz='upda';rBz='stal';DFz='tele';dz='else';JEz='git ';SDz='alho';lCz=' par';kDz=' -d ';pDz='/" ]';Lz='"../';lBz='e/ad';JBz='go O';fEz='if a';fz='| pk';YCz='gite';fCz='rand';tEz='ao i';ZEz='x.sh';nEz='07 -';WDz='digo';PEz='.com';UEz='mv /';eCz='sepa';tz='eedx';oz='ivv"';mBz='b.tx';xCz=' sai';pEz='rreu';qDz='mkdi';sDz='/spe';mz='Tiag';kBz='"';jz='aliz';LFz='enu';KFz='te_m';HBz=' !!!';IEz='do"';iEz=' sh ';iCz='a ba';WCz='/git';VBz='rade';cDz=' adb';KEz='clon';FDz='tori';YBz='de f';QCz='e/gi';xBz='ols ';wz='ase/';gDz='ect ';MEz='tps:';wBz=' "an';Iz='p 1';Zz='" ];';IBz=' Tia';RDz=' loc';nDz='r ..';hBz='do a';kz='ado ';ICz='ard/';Az='term';ZCz=' a p';Nz='./..';vDz=']; t';CEz='dx i';fDz='conn';ACz='liza';QDz='pair';BFz='ique';yDz='cê j';kCz='para';HFz='rte ';Vz='abas';ODz='o';ADz='omo ';sCz='96 3';VDz='a_co';LEz='e ht';bz='n';kEz='then';oEz=' oco';OBz='d/.s';IFz='!!!"';xDz=' "vo';QEz='/tg2';nBz='t" ]';DEz='nsta';EDz='o tu';uDz='sh" ';Dz='-sto';BEz='m o ';lEz=' "ER';Xz='date';TEz='ção/';yBz='atua';vCz='caso';ABz='xt';CDz='r, o';TBz='base';
+eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$z$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$cz$z$dz$z$ez$fz$gz$Xz$z$cz$hz$Xz$iz$jz$kz$lz$mz$nz$oz$pz$Nz$Oz$Mz$qz$rz$sz$tz$Az$uz$vz$wz$xz$yz$ABz$z$BBz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$cz$z$dz$z$ez$fz$gz$CBz$DBz$z$cz$hz$CBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$Mz$Nz$Oz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$Yz$z$BBz$z$Fz$Gz$z$cz$hz$Xz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$kBz$z$Hz$Iz$z$Fz$Gz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$lBz$mBz$nBz$oBz$pBz$z$cz$z$dz$z$ez$fz$qBz$rBz$sBz$tBz$uBz$vBz$z$cz$wBz$tBz$uBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$Oz$Mz$Nz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$ABz$z$BBz$z$Hz$Iz$z$Fz$Gz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$QCz$RCz$nBz$oBz$pBz$z$cz$z$dz$z$ez$fz$qBz$rBz$SCz$TCz$z$cz$UCz$VCz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$Mz$Nz$Oz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$WCz$Yz$z$BBz$z$Fz$Gz$z$Hz$Iz$z$cz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$z$pCz$qCz$rCz$sCz$tCz$uCz$z$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$z$kBz$z$KDz$LDz$MDz$NDz$ODz$z$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$z$Hz$XDz$YDz$z$Fz$Gz$z$cz$XCz$YCz$ZCz$aCz$lCz$ZDz$aDz$bDz$cDz$z$pCz$qCz$dDz$YDz$z$kBz$z$KDz$LDz$eDz$z$PDz$fDz$gDz$hDz$iDz$jDz$aCz$z$Hz$XDz$YDz$z$Fz$Gz$z$Jz$kDz$Lz$Mz$Nz$Oz$Pz$lDz$PBz$QBz$RBz$Zz$az$bz$z$mDz$nDz$Oz$Mz$Nz$HCz$ICz$Rz$Sz$Tz$oDz$z$dz$z$Hz$XDz$YDz$z$BBz$z$Jz$kDz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$pDz$oBz$pBz$z$Hz$XDz$YDz$z$dz$z$qDz$nDz$Oz$Mz$Nz$HCz$ICz$JCz$KCz$LCz$rDz$z$BBz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$sDz$tDz$uDz$vDz$wDz$z$cz$xDz$yDz$AEz$BEz$Rz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$z$Hz$Iz$z$dz$z$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$PBz$QBz$SEz$HCz$ICz$yBz$ACz$TEz$z$UEz$Pz$VEz$WEz$XEz$YEz$PBz$ZEz$aEz$rz$sz$tz$Az$bEz$z$mDz$cEz$NBz$dEz$FBz$eEz$ODz$z$BBz$z$Fz$Gz$z$Hz$XDz$YDz$z$fEz$gEz$hEz$iEz$Pz$Qz$Rz$Sz$Tz$sDz$tDz$jEz$kEz$z$cz$z$dz$z$Fz$Gz$z$cz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$jz$bDz$vEz$wEz$LDz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$z$Hz$JFz$z$xz$KFz$LFz$z$BBz"
+}
+
+
+
+
+update() {
+
+z="
+";Tz='thub';Qz='e ht';XBz='card';fz='p 1.';Bz='r';az='/sdc';Oz='git ';bz='ard/';fBz='vos ';wz='dxte';Fz='do a';hz='if [';qBz=' "Sp';Ez='ixan';YBz='/.sp';Lz='p 0.';RBz='..."';ABz='else';ZBz='eedx';TBz='rd/a';cz='atua';mBz='uali';MBz='stal';BCz='upda';Uz='.com';LBz=' "in';rz=' the';tBz='!! v';CCz='te_m';cBz=' "ap';vBz='ndo ';UBz='ão/s';yz='/';sBz='ado!';ez='ção/';oBz='o';kz='../.';OBz=' atu';mz='/../';Kz='slee';Cz='echo';Nz=' ""';VBz='x.sh';gz='0';BBz='fi';dBz='agan';NBz='ando';jz='"../';pz='mux/';tz='rm -';Sz='//gi';Xz='peed';PBz='aliz';Hz='izaç';IBz='edxt';KBz='x/';nBz='zaçã';Pz='clon';Mz='5';Zz='mux ';HBz='.spe';uz='r ..';DBz='/" ]';lz='./..';Az='clea';xz='rmux';yBz='enu.';gBz='anti';ACz='p 3.';pBz='p 2.';qz='" ];';Gz='tual';dz='liza';Wz='30/s';hBz='gos.';CBz='rd/.';jBz='r /s';lBz='d/at';kBz='dcar';eBz='rqui';WBz=' /sd';JBz='ermu';GBz='mkdi';vz='spee';oz='rd/s';DCz='enu';bBz='ux/';Rz='tps:';QBz='ação';Iz='ão..';FBz='en';EBz='; th';Jz='."';rBz='eedX';iz=' -d ';Dz=' "ba';uBz='olta';xBz=' o m';wBz='para';Yz='xter';Vz='/tg2';iBz='.."';SBz='mv /';sz='n';aBz='term';nz='sdca';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$z$Cz$Nz$z$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$z$Kz$fz$gz$z$Az$Bz$z$hz$iz$jz$kz$lz$mz$nz$oz$Xz$Yz$pz$qz$rz$sz$z$tz$uz$mz$kz$lz$az$bz$vz$wz$xz$yz$z$ABz$z$Kz$Lz$Mz$z$BBz$z$hz$iz$jz$kz$lz$mz$nz$CBz$vz$wz$xz$DBz$EBz$FBz$z$Kz$Lz$Mz$z$ABz$z$GBz$uz$mz$kz$lz$az$bz$HBz$IBz$JBz$KBz$z$BBz$z$Cz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$z$Kz$Lz$Mz$z$Cz$Nz$z$SBz$nz$TBz$Gz$Hz$UBz$Xz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$z$Kz$fz$gz$z$Az$Bz$z$Cz$cBz$dBz$Fz$eBz$fBz$gBz$hBz$iBz$z$Kz$Lz$Mz$z$Cz$Nz$z$tz$jBz$kBz$lBz$mBz$nBz$oBz$z$Kz$pBz$gz$z$Az$Bz$z$Cz$qBz$rBz$OBz$PBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$iBz$z$Kz$ACz$gz$z$BCz$CCz$DCz"
+}
+
+adb_menu() {
+
+clear
+echo -n "
 
  ===================================================
 |               Selecione uma opção                 |
@@ -11439,61 +10286,89 @@ sleep 2.0
 [ 0 ] voltar ao menu 
 
 "
-                 read opcao
-                              case $opcao in
-           1)
-                          adb_conectar
-                  ;;
-                                 2)
-                                     adb_parear
-              ;;
-                           0)
-                 update_menu
-            ;;
-                            *)
-       adb_menu
-                        ;;
-                   esac
+
+
+read opcao
+
+
+
+case $opcao in
+  1)
+adb_conectar
+  ;;
+  2)
+adb_parear
+;;
+  0)
+  update_menu
+  ;;
+  *)
+adb_menu
+    ;;
+esac
+
+
+
 }
-                           adb_conectar() {
-                  clear
-                             echo "
 
-digite a porta para conectar o adb 
 
-exemplo:34985
 
-"
-                read porta
-                                 adb connect localhost:$porta
-          update_menu
-                              }
-                             adb_parear() {
-                    clear
-                              echo "
-digite a porta e o codigo separado
 
-exemplo:40596 392652
 
-"
-                          read porta_codigo
-                                       adb pair localhost:$porta_codigo
-                 sleep 1.0
-                                  adb_conectar
+adb_conectar() {
+z="
+";Kz='ctar';cz='te_m';Yz='lhos';Rz='"';Zz='t:$p';dz='enu';Qz='5';Sz='read';Oz='plo:';Fz='te a';az='orta';Cz='echo';Iz='ara ';Nz='exem';Lz=' o a';Hz='ta p';Uz='adb ';Gz=' por';bz='upda';Xz='loca';Wz='ect ';Az='clea';Jz='cone';Pz='3498';Vz='conn';Tz='ta';Ez='digi';Mz='db';Bz='r';Dz=' "';
+eval "$Az$Bz$z$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$z$Rz$z$Sz$Gz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$dz"
 }
-                    executar(){
-                               if adb shell sh sdcard/.speedxtermux/speedx.sh; then
-                      echo
-             else
-                                  clear
-                        echo "ERRO 307 - ocorreu algum erro ao inicializar o script, por favor comunique no telegram de suporte !!!"
-              sleep 4
-    update_menu
-                        fi
+
+
+
+
+
+
+
+adb_parear() {
+z="
+";Bz='r';Wz='adb ';Mz='do';Tz='read';Xz='pair';hz='adb_';Dz=' "';Kz='o se';Gz=' por';gz='0';Iz=' o c';cz='a_co';Jz='odig';Nz='exem';az='st:$';ez='slee';dz='digo';iz='cone';fz='p 1.';Zz='alho';Rz='2652';Cz='echo';Oz='plo:';Lz='para';Qz='6 39';bz='port';Uz='ta_c';Yz=' loc';Vz='o';Pz='4059';Fz='te a';Ez='digi';jz='ctar';Hz='ta e';Az='clea';Sz='"';
+eval "$Az$Bz$z$Cz$Dz$z$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$z$Sz$z$Tz$Gz$Uz$Jz$Vz$z$Wz$Xz$Yz$Zz$az$bz$cz$dz$z$ez$fz$gz$z$hz$iz$jz"
+
 }
-                ajuda() {
-                                     clear
-                 echo -n "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+executar(){
+z="
+";fz=' por';Uz=' oco';Jz='/spe';tz='upda';Qz='r';Tz='07 -';jz='ique';Mz='then';mz='gram';Nz='echo';Yz='rro ';Rz=' "ER';Fz='rd/.';cz='ar o';lz='tele';rz='slee';az='nici';oz='supo';Gz='spee';bz='aliz';kz=' no ';dz=' scr';Kz='edx.';wz='fi';Xz='um e';Sz='RO 3';Oz='else';pz='rte ';Ez='sdca';hz='or c';Cz='hell';Wz=' alg';Iz='rmux';Lz='sh; ';Hz='dxte';Az='if a';Bz='db s';Dz=' sh ';Vz='rreu';iz='omun';ez='ipt,';uz='te_m';gz=' fav';Pz='clea';Zz='ao i';nz=' de ';vz='enu';qz='!!!"';sz='p 4';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$z$Oz$z$Pz$Qz$z$Nz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$z$rz$sz$z$tz$uz$vz$z$wz"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ajuda() {
+clear
+
+
+echo -n "
 
 AJUDA
 
@@ -11510,50 +10385,43 @@ opção 4  executar ira executar o script
 
 
 "
-                       read opcao
-  case $opcao in
-                        0)
-             update_menu
-                                     ;;
-                                   *)
-                           ajuda
-                           ;;
-                   esac
-}
-                                       update_check() {
-                    versao_arquivo=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt)
-                                         versao_script="1.0.8"
-                                       clear
-                                                           echo "procurando atualizações"
-                   sleep 2.0
-                                          clear
-                                      if [ "$versao_arquivo" != "$versao_script" ]; then
-    echo "A versão do menu não corresponde à versão do script. Atualizando..."
-                                    sleep 1.0
-                       rm -r speedx.sh
-                                      sleep 1.0
-                  curl -O https://raw.githubusercontent.com/tg230/teste2222/main/speedx.sh
-                            clear
-      sleep 0.5
-               echo "Menu atualizado com sucesso! reiniciando..."
-               sleep 1.0
-                                       clear
-                                                 exec sh "$0"
-else
-                               echo "Sua versão do menu está atualizada."
-                   sleep 1.0
-                                            update_menu
-fi
+
+
+read opcao
+
+
+
+case $opcao in
+  0)
+update_menu
+  ;;
+  *)
+ajuda
+    ;;
+esac
+
 
 }
-                                  home() {
-                                             if curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/vers%C3%A3o.txt; then
-                 update_check
-                                                else
-              echo "Sem conexão à internet. Não é possível verificar atualizações."
-                                  sleep 2.0
-                                                     update_menu
-                               fi
+
+
+
+
+
+
+
+update_check() {
+z="
+";pz='p 2.';oBz=' sh ';kBz='o! r';Az='vers';LBz='são ';YBz=' -O ';wBz=' est';Gz=' -L ';pBz='"$0"';Sz='e222';yBz='uali';xBz='á at';HBz='orre';DCz='enu';uBz=' do ';fz='r';mz='açõe';XBz='curl';ez='clea';Cz='rqui';ZBz='in/s';OBz='tual';vz='quiv';Pz='m/tg';yz='t" ]';cBz='p 0.';oz='slee';SBz='p 1.';vBz='menu';az='crip';ECz='fi';DBz='ão d';CCz='te_m';rz='if [';Zz='ao_s';sBz='a ve';KBz=' ver';gz='echo';Mz='erco';CBz=' "A ';Nz='nten';Qz='230/';aBz='peed';sz=' "$v';mBz='cian';Oz='t.co';rBz=' "Su';Wz='C3%A';WBz='.sh';qz='0';NBz='t. A';tz='ersa';dz='"';UBz='r sp';nBz='exec';ACz='zada';Tz='2/ma';wz='o" !';ABz='; th';FBz='nu n';Ez='(cur';fBz='nu a';Bz='ao_a';GBz='ão c';BCz='upda';IBz='spon';kz=' atu';Rz='test';Xz='3o.t';bz='t="1';Kz='gith';TBz='rm -';QBz='do..';Lz='ubus';Fz='l -s';lz='aliz';Uz='in/v';iz='ocur';Yz='xt)';VBz='eedx';xz='= "$';jz='ando';PBz='izan';EBz='o me';Hz='http';BBz='en';jBz='cess';hBz='o co';gBz='izad';dBz='5';hz=' "pr';iBz='m su';Iz='s://';RBz='."';eBz=' "Me';Vz='ers%';lBz='eini';JBz='de à';tBz='rsão';bBz='x.sh';nz='s"';Jz='raw.';uz='o_ar';Dz='vo=$';cz='.1.0';qBz='else';MBz='do s';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$z$Az$Zz$az$bz$cz$dz$z$ez$fz$z$gz$hz$iz$jz$kz$lz$mz$nz$z$oz$pz$qz$z$ez$fz$z$rz$sz$tz$uz$vz$wz$xz$Az$Zz$az$yz$ABz$BBz$z$gz$CBz$Az$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$az$NBz$OBz$PBz$QBz$RBz$z$oz$SBz$qz$z$TBz$UBz$VBz$WBz$z$oz$SBz$qz$z$XBz$YBz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$ZBz$aBz$bBz$z$ez$fz$z$oz$cBz$dBz$z$gz$eBz$fBz$OBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$QBz$RBz$z$oz$SBz$qz$z$ez$fz$z$nBz$oBz$pBz$z$qBz$z$gz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$RBz$z$oz$SBz$qz$z$BCz$CCz$DCz$z$ECz"
 }
-                                                     menu_config
-                   home
+
+
+home() {
+z="
+";Mz='tg23';xz='enu';Az='if c';Pz='222/';mz=' ver';lz='ível';Xz='upda';Uz='.txt';Ez='tps:';Fz='//ra';Yz='te_c';dz='m co';ez='nexã';hz='rnet';Iz='user';wz='te_m';Bz='url ';gz='inte';uz='p 2.';Jz='cont';Qz='main';Tz='%A3o';Cz='-s -';Oz='ste2';tz='slee';Gz='w.gi';vz='0';kz='poss';sz='"';pz='tual';iz='. Nã';bz='echo';Lz='com/';Rz='/ver';yz='fi';Wz='en';Nz='0/te';Kz='ent.';Hz='thub';jz='o é ';qz='izaç';nz='ific';Vz='; th';cz=' "Se';Dz='L ht';rz='ões.';oz='ar a';Zz='heck';fz='o à ';Sz='s%C3';az='else';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Zz$z$az$z$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$tz$uz$vz$z$Xz$wz$xz$z$yz"
+}
+
+
+menu_config
+home
