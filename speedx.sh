@@ -10422,7 +10422,7 @@ esac
 
 
 update_check() {
-versao_script="1.1.1"
+versao_script="1.1.2"
 z="
 ";Qz='230/';kBz='exec';mz='if [';iz='s"';Oz='t.co';Ez='(cur';XBz='peed';RBz='r sp';yBz='te_m';qBz='rsão';vBz='uali';TBz='.sh';aBz='5';VBz=' -O ';Hz='http';FBz='spon';jBz='cian';uBz='á at';Xz='3o.t';tBz=' est';Pz='m/tg';Zz='clea';dBz='izad';SBz='eedx';tz='ao_s';Cz='rqui';lBz=' sh ';Jz='raw.';QBz='rm -';Mz='erco';NBz='do..';WBz='in/s';yz=' "A ';LBz='tual';az='r';dz='ocur';uz='crip';kz='p 2.';MBz='izan';nz=' "$v';Tz='2/ma';eBz='o co';rz='o" !';hz='açõe';nBz='else';Sz='e222';wz='; th';xz='en';EBz='orre';KBz='t. A';Az='vers';IBz='são ';DBz='ão c';UBz='curl';BCz='fi';sBz='menu';Lz='ubus';Kz='gith';Wz='C3%A';Rz='test';hBz='o! r';Dz='vo=$';ACz='enu';pBz='a ve';Vz='ers%';qz='quiv';sz='= "$';vz='t" ]';ez='ando';PBz='p 1.';iBz='eini';Nz='nten';Bz='ao_a';CBz='nu n';wBz='zada';Iz='s://';ABz='ão d';bz='echo';JBz='do s';cBz='nu a';HBz=' ver';mBz='"$0"';pz='o_ar';YBz='x.sh';bBz=' "Me';Uz='in/v';rBz=' do ';oz='ersa';jz='slee';oBz=' "Su';Fz='l -s';xBz='upda';lz='0';BBz='o me';fBz='m su';Yz='xt)';gz='aliz';OBz='."';fz=' atu';Gz=' -L ';GBz='de à';gBz='cess';cz=' "pr';ZBz='p 0.';
 eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$z$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$iz$z$jz$kz$lz$z$Zz$az$z$mz$nz$oz$pz$qz$rz$sz$Az$tz$uz$vz$wz$xz$z$bz$yz$Az$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$uz$KBz$LBz$MBz$NBz$OBz$z$jz$PBz$lz$z$QBz$RBz$SBz$TBz$z$jz$PBz$lz$z$UBz$VBz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$WBz$XBz$YBz$z$Zz$az$z$jz$ZBz$aBz$z$bz$bBz$cBz$LBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$NBz$OBz$z$jz$PBz$lz$z$Zz$az$z$kBz$lBz$mBz$z$nBz$z$bz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$OBz$z$jz$PBz$lz$z$xBz$yBz$ACz$z$BCz"
