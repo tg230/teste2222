@@ -50,6 +50,6 @@ rm -r speedx
 mirror=$(curl -s -L https://raw.githubusercontent.com/tg230/teste2222/main/check/ip/mirror/1)
 directory="speedxtermux/menu/speedx"
 curl -O "http://${mirror}/${directory}"
-exec sh "$0"
+exec bash "$0"
 
 clear 
